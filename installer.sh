@@ -55,4 +55,4 @@ sync
 umount /target
 
 echo ""
-echo "Done. Please reboot your computer."
+echo "Done. Please reboot your computer"
